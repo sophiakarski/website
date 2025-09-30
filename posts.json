@@ -2,11 +2,16 @@
   {
     "title": "Marathon Running",
     "url": "marathon-running.html",
-    "image": "images/marathon.jpg"
+    "image": "images/blog/marathon.jpg"
   },
   {
     "title": "Travel Blog",
     "url": "travel-blog.html",
-    "image": "images/travel.jpg"
+    "image": "images/blog/travel.jpg"
+  },
+  {
+    "title": "Recipes",
+    "url": "recipes.html",
+    "image": "images/blog/recipes.jpg"
   }
 ]
